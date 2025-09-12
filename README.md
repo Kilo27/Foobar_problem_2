@@ -28,11 +28,12 @@ Once this repository is cloned you should have access to all of the files and th
 </div>
 
 **submitting a solution** is a relatively straight forward process and has everything to do with the executable you pulled when you cloned this repository ` Grade_code.exe ` <br>
-to submit a solution you **must** run this executable and provide it with the following information : <br>
-` Your Team Name ` <br> <br>
-` The name of your solution file ` <br> **(MAKE SURE IT IS IN THE SAME DIRECTORY AS THE EXECUTABLE TO ENSURE THE EXECUTABLE CAN FIND IT)** <br> <br>
-` The name of the method you use to load your CSV data into the script ` <br> **(ONLY INCLUDE THE NAME NO '()' OR 'def')** <br> <br>
-` The name of the method you use to create your graph ` <br> **(ONLY INCLUDE THE NAME NO '()' OR 'def')** <br>
+to submit a solution you **must** run this executable and complete the following<br>
+1. Ensure your file name for submission follows the following format : ` TeamName_Solution.py ` <br> <br>
+2. Click your team name when it pops up on the executable screen <br>**(NOTE THE EXECUTABLE AND SOLUTION FILE MUST BE LOCATED IN THE SAME DIRECTORY)** <br> <br>
+3. Click the *"Grade Selected"* button option <br> <br>
+4. Your script will be automatically graded and your score on the leader board will be updated <br> <br>
+
 <br>
 after this click the "grade code" button at the bottom of the executable and (after almost crashing) the executable will return your grade and update it on the live leaderboard
 
