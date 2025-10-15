@@ -15,3 +15,7 @@ Original Amount: 150.0 EUR
 Final USD Amount: 165.00
 Total Profit: 15.00
 Conversion Path: EUR -> GBP -> USD
+
+---
+File: test2_solution.py
+
