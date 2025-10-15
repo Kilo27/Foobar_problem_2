@@ -3,7 +3,7 @@
 ## Quick overview
 Convert one of several buy-ins from its original currency into USD using a sequence of currency exchanges that yields the largest final USD value <mark>**only traversing EACH CURRENCY ONCE**</mark>. Your program must report the chosen buy-in, the original amount and currency, the final USD value, the profit, and the conversion path.
 
-### NOTE: Each currency conversion rate is the inverse of its opposite e.g. USD -> EUR = 1.4982 THEN EUR -> USD = 1/1.4982
+### NOTE: Each currency conversion rate is the inverse of its opposite <br> e.g. USD -> EUR = 1.4982 THEN EUR -> USD = 1/1.4982
 ---
 ## Objective
 For each buy-in:
